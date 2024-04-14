@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/icon/plus.svg</file>
+        <file>assets/icon/arrow-back.svg</file>
+        <file>assets/icon/arrow-foward.svg</file>
+        <file>assets/icon/play-button.svg</file>
+        <file>assets/icon/settings.svg</file>
+        <file>assets/icon/pause.svg</file>
+        <file>assets/icon/tick.svg</file>
+        <file>assets/fonts/Ubuntu_Mono/UbuntuMono-Bold.ttf</file>
+        <file>assets/fonts/Ubuntu_Mono/UbuntuMono-BoldItalic.ttf</file>
+        <file>assets/fonts/Ubuntu_Mono/UbuntuMono-Italic.ttf</file>
+        <file>assets/fonts/Ubuntu_Mono/UbuntuMono-Regular.ttf</file>
+        <file>assets/fonts/Ubuntu_Mono/UFL.txt</file>
+        <file>assets/icon/down.svg</file>
+        <file>assets/icon/close.svg</file>
+        <file>assets/icon/tomato.ico</file>
+    </qresource>
+</RCC>
